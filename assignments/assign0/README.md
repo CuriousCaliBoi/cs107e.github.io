@@ -116,13 +116,13 @@ we know what question it corresponds to) and reasonably organized.
     Be careful with that one btw, theres no getting your directory back!). 
     Commands to know: `cd`, `pwd`, `ls`, `cat`, `mkdir`, `rmdir`, `touch`, `rm`, `echo`.
 
-11. Start typing a valid command into your shell, before you complete the command pause and try hitting tab a few times. What happens? Try it with `cd` as well.   
+11. Start typing a valid command into your shell, before you complete the command pause and try hitting tab a few times. What happens? Try it with `cd` as well. 
 
 12. Again start typing in a command, before finishing this time hit `ctrl-c` , what happens? 
 
-13.  Try running `sleep 10`, then enter `ctrl-c` , what happens? 
+13. Try running `sleep 10`, then enter `ctrl-c` , what happens? 
 
-14.  What does `ctrl-r` do in terminal and why is this useful? How about the up arrow ? 
+14. What does `ctrl-r` do in terminal and why is this useful? How about the up arrow ? 
 
 15. In git speak, what is a "commit"? What is a "branch"?
    If you're unsure, refer to our [git guide](/guides/git).
